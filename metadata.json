@@ -1,0 +1,7 @@
+{
+  "name": "PISTOL PALMS: NEURAL POP",
+  "description": "The ultimate gesture-controlled AR target shooter. Turn your hand into a high-tech digit-blaster and pop neural discs in your actual room!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
